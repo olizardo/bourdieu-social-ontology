@@ -1,0 +1,806 @@
+This article was downloaded by: University of California - Los Angeles
+On: 27 Apr 2023
+Access details: subscription number 10922
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: 5 Howick Place, London SW1P 1WG, UK
+
+
+
+                                    The Routledge Handbook of Philosophy of the Social Mind
+
+                                    Julian Kiverstein
+
+                                    Social Roles and Reification
+
+                                    Publication details
+                                    https://www.routledgehandbooks.com/doi/10.4324/9781315530178.ch25
+                                    Ron Mallon
+                                    Published online on: 07 Dec 2016
+
+
+
+
+How to cite :- Ron Mallon. 07 Dec 2016, Social Roles and Reification from: The Routledge Handbook
+of Philosophy of the Social Mind Routledge
+Accessed on: 27 Apr 2023
+https://www.routledgehandbooks.com/doi/10.4324/9781315530178.ch25
+
+
+
+                                  PLEASE SCROLL DOWN FOR DOCUMENT
+
+Full terms and conditions of use: https://www.routledgehandbooks.com/legal-notices/terms
+
+This Document PDF may be used for research, teaching and private study purposes. Any substantial or systematic reproductions,
+re-distribution, re-selling, loan or sub-licensing, systematic supply or distribution in any form to anyone is expressly forbidden.
+
+The publisher does not give any warranty express or implied or make any representation that the contents will be complete or
+accurate or up to date. The publisher shall not be liable for an loss, actions, claims, proceedings, demand or costs or damages
+whatsoever or howsoever caused arising directly or indirectly in connection with or arising out of the use of this material.
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+
+
+
+
+                                                                                                                                                         25
+                                                                                                                                                 SOCIAL ROLES AND
+                                                                                                                                                   REIFICATION1
+                                                                                                                                                                       Ron Mallon
+
+
+
+                                                                                                                           Stand in a crowded urban center, and you can see an extraordinarily diverse, amazingly com-
+                                                                                                                           plex social world that is structured in part by widespread understandings about the properties,
+                                                                                                                           functions, rights, privileges, duties, obligations, and restraints of certain groups of people in
+                                                                                                                           certain domains – structured in part by social roles.
+                                                                                                                               One source of such roles is our institutions. Our institutions are full of social roles like
+                                                                                                                           teacher, lawyer, doctor, member of Congress, Starbucks barista, licensed pipefitter, and fully-
+                                                                                                                           paid-up member of the American Philosophical Association, and these social roles structure
+                                                                                                                           permissions, restrictions, expectations, and behaviors in ways that facilitate coordination and,
+                                                                                                                           sometimes, cooperation. When we look across the crowd, we see many conspicuous markers
+                                                                                                                           of such social role status, including uniforms and badges that allow us to fix expectations for
+                                                                                                                           interpersonal regulation, coordination, and cooperation.
+                                                                                                                               But there is also a long social constructionist tradition that insists upon the importance of
+                                                                                                                           another type of social role: social roles like being a man or a woman; homosexual or straight; Asian,
+                                                                                                                           black, or white; angry or sad.This second group of roles differs from institutional roles in that these
+                                                                                                                           categories are widely understood to be natural kinds of person – kinds that exist or have their
+                                                                                                                           character independently of our classificatory practices, perhaps because they are some sort of
+                                                                                                                           biological kind. Again, when we look out on the street, we see many indicators of membership
+                                                                                                                           in these roles. For sex and race, conspicuous features of the body are often taken to be indicators
+                                                                                                                           of kind membership. In some cases, clothing or other artifacts may indicate membership as well.
+                                                                                                                               In the face of the temptation to treat such kinds as natural, social constructionists provocatively
+                                                                                                                           insist that these kinds are actually some sort of social kind – a product of our culture, decisions, or
+                                                                                                                           social practices. Social constructionists think that these kinds exist because of our (historical and cur-
+                                                                                                                           rent) practices of thinking of them and treating them as different. In effect, they attempt to explain
+                                                                                                                           kind differences not by appeal to nature, but by appeal to social roles. Borrowing some terminology
+                                                                                                                           from Paul Griffiths (1997), we can call the transparent, institutional sort of social role an overt role or
+                                                                                                                           construction, and the latter, putatively natural but actually social kind, a covert role or construction.
+                                                                                                                               Examples of covert constructionist claims about human kinds are not hard to find in the con-
+                                                                                                                           temporary humanities and social sciences. Begin with race.The philosopher Paul Taylor writes that,
+
+                                                                                                                                White supremacist societies created the Races they thought they were discovering,
+                                                                                                                                and the ongoing political developments in these societies continued to re-create
+
+
+                                                                                                                                                                              431
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                       Ron Mallon
+
+
+                                                                                                                               them. . . . All of this is to say: our Western races are social constructs. They are things
+                                                                                                                               that we humans create in the transactions that define social life.
+                                                                                                                                                                                                              (2013, 179)
+
+                                                                                                                           Michael Omi and Howard Winant similarly claim:
+
+                                                                                                                               The effort must be made to understand race as an unstable and “decentered” complex
+                                                                                                                               of social meanings constantly being transformed by political struggle. . . . The concept
+                                                                                                                               of race continues to play a fundamental role in structuring and representing the social
+                                                                                                                               world. The task for theory is to explain this situation. It is to avoid both the utopian
+                                                                                                                               framework which sees race as an illusion we can somehow “get beyond,” and also the
+                                                                                                                               essentialist formulation which sees race as something objective and fixed, a biological
+                                                                                                                               datum. Thus we should think of race as an element of social structure . . .
+                                                                                                                                                                                                              (1994, 55)
+
+                                                                                                                           This core idea, that races are products of human sociocultural activity, but are widely believed
+                                                                                                                           to be natural, is widespread among humanistic racial theorists.
+                                                                                                                              Claims of the construction of gender kinds are also ubiquitous. For example, Catherine
+                                                                                                                           McKinnon claims of gender that:
+
+                                                                                                                               Gender has no basis in anything other than the social reality its hegemony constructs.
+                                                                                                                               Gender is what gender means. The process that gives sexuality its male supremacist
+                                                                                                                               meaning is the same process through which gender inequality becomes socially real.
+                                                                                                                                                                                                         (1987, 173)
+
+                                                                                                                           The suggestion is, again, that gender differences are products of our cultural practices of assign-
+                                                                                                                           ing meanings to bodies and differentially treating them, resulting in differences that are mistak-
+                                                                                                                           enly interpreted as natural.
+                                                                                                                              Another influential example is Michel Foucault’s (1978) claim that as ideas or concepts of
+                                                                                                                           sexuality shifted in nineteenth-century Europe, they became more committed to the idea that
+                                                                                                                           sexual behavior was indicative of importantly different, underlying kinds of people. And Fou-
+                                                                                                                           cault believes these new understandings actually caused homosexuality to come to exist (not
+                                                                                                                           just the label, the idea, or the concept, but the kind itself).
+                                                                                                                              Such claims raise many questions; here I focus upon the question of what covertly con-
+                                                                                                                           structed kinds are. Suppose that we allow that covert constructionists are correct that some
+                                                                                                                           putatively natural human kinds are actually a production of our social and conceptual activities,
+                                                                                                                           that they are some sort of social role. What explains their apparent existence and sustains their
+                                                                                                                           causal power over time?
+                                                                                                                              Notice that the natural kind theorist answers these questions by appealing to the natural
+                                                                                                                           kind; the natural kind gender theorist, for example, answers these questions by appeal to bio-
+                                                                                                                           logical sex. In contrast, the social constructionist wants to appeal to widespread understandings
+                                                                                                                           of gender and the social practices that they structure to explain gender kinds. But how shall
+                                                                                                                           we understand these?
+                                                                                                                              Because they are produced in some way by our social and conceptual activities, it is tempt-
+                                                                                                                           ing to understand covert social roles by analogy with overt institutional roles. In both cases, our
+                                                                                                                           social and cultural practices serve to differentiate social role members from others, creating real-
+                                                                                                                           world effects. And, in both cases, if we could intervene upon these representational practices,
+                                                                                                                           we could thereby alter their consequences.
+
+                                                                                                                                                                          432
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                Social roles and reification
+
+
+                                                                                                                              Despite these similarities, covert, socially constructed human categories are a different kind
+                                                                                                                           of kind than institutional categories.The mechanism that stabilizes and sustains these kinds over
+                                                                                                                           time is different (Mallon in press). Appreciating this difference is crucial to appreciating the dif-
+                                                                                                                           ferent sorts of ways our social world acquires its structure and to understanding how we might
+                                                                                                                           go about transforming or eliminating them.
+                                                                                                                              Here is how I proceed. In the first section, I briefly articulate this understanding of covert
+                                                                                                                           constructionist explanations as appealing to social roles. I then consider the possibility of inter-
+                                                                                                                           preting such constructed roles as products of overt construction. But, I go on to argue, overt
+                                                                                                                           and covert constructions are different kinds of kinds. I conclude by connecting the discussion
+                                                                                                                           to concerns with social change.
+
+                                                                                                                                                                      Social roles
+                                                                                                                           I am interpreting the social constructionist as understanding social kinds as a sort of social role
+                                                                                                                           (cf. Griffiths 1997; Mallon 2003, Mallon and Kelly 2012, Mallon 2016). As I use the term, a
+                                                                                                                           social role is created when a kind representation becomes widespread, common knowledge in a
+                                                                                                                           community. A social role in this sense exists in a community when ideas about the membership
+                                                                                                                           conditions for the role, about the permissions, duties, and other norms attaching to role mem-
+                                                                                                                           bers, and about role-typical properties, become something everyone in a community knows,
+                                                                                                                           knows that every knows, and so on.2
+                                                                                                                               For covert social roles, these representations represent kind membership or kind typical
+                                                                                                                           properties as “natural” facts. In many cases, such facts may be explained as the result of bio-
+                                                                                                                           logical or endogenous features of kind members, but it could also include extrinsic causes like
+                                                                                                                           “divine will”.The important feature of this sense of “natural” is that the existence and character
+                                                                                                                           of the kind is understood as given and as independent of human choices either in the past or
+                                                                                                                           at present.
+                                                                                                                               Such representations may also include stereotypes or other sorts of representations that
+                                                                                                                           distinguish category members. The causal power of the resulting kinds is then explained by
+                                                                                                                           appeal to the causal effects of the representations upon behavior with regard to, toward, and by
+                                                                                                                           kind members. Such causal effects of representations may occur via a range of causal pathways,
+                                                                                                                           including both actions and policies guided by explicit beliefs about kind members (e.g. rac-
+                                                                                                                           ist or sexist beliefs) and also pathways in which representations influence individual behavior
+                                                                                                                           automatically and perhaps unconsciously in ways that can be at odds with background beliefs
+                                                                                                                           or intentions (cf. Bargh and Chartrand 1999; Gendler 2008; Huebner 2009; Mallon in press).
+                                                                                                                               (Actual or possible) features of the constructed kinds may then be understood or explained
+                                                                                                                           by considering the meaning of the kind representations as well as the mechanisms by which
+                                                                                                                           those representations influence behavior by and towards kind members. This is an elaboration
+                                                                                                                           of the covert constructionist position, going beyond what constructionists typically say. Still,
+                                                                                                                           something like this elaboration seems necessary in order for the sorts of claims considered
+                                                                                                                           above (and many others in the humanities and social sciences) to be true. It allows us to under-
+                                                                                                                           stand provocative claims like Foucault’s insistence that homosexuality first came to exist in the
+                                                                                                                           nineteenth century as a claim about a certain kind representation coming to be widespread in
+                                                                                                                           a way that structured social life.
+                                                                                                                               On such a picture, the social constructionist about a human kind appeals to the social
+                                                                                                                           role – the widespread representation and its systematic causal effects on the social environment
+                                                                                                                           and on kind members – in explanation of the existence or features of a category in a way that
+                                                                                                                           parallels the natural kind theorists’ appeal to underlying natural difference. Both the construc-
+                                                                                                                           tionist and the natural kind theorist hold that the underlying category is a real thing, but they
+
+                                                                                                                                                                           433
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                          Ron Mallon
+
+
+                                                                                                                           disagree about the character or nature of that thing. What remains for both of them to provide
+                                                                                                                           is a further specification of the underlying kinds or mechanisms, and an account of how, exactly,
+                                                                                                                           these explain whatever differences or regularities are in question.
+
+                                                                                                                                                                Appealing to overt kinds
+                                                                                                                           But how should we understand the mechanism or mechanisms that sustain covertly con-
+                                                                                                                           structed social roles and make them causally powerful? One promising suggestion is that we
+                                                                                                                           should understand socially constructed covert kinds in the same way we understand socially
+                                                                                                                           constructed overt kinds, like social institutions. As I noted at the outset, there are many insti-
+                                                                                                                           tutional social roles, roles like being a licensed driver, or being the President of the United States, for
+                                                                                                                           which the differential features of the persons in the roles apparently stem from some set of
+                                                                                                                           social institutions and conventions.
+                                                                                                                              Many philosophers hint at this strategy by using social institutions as illustrations for under-
+                                                                                                                           standing the features of covert social constructions. For example, Sally Haslanger writes:
+
+                                                                                                                                Consider a landlord. One is a landlord by virtue of one’s role in a broad system of
+                                                                                                                                social and economic relations which includes tenants, property, and the like. Even if
+                                                                                                                                it turned out as a matter of fact that all and only landlords had a closed loop in the
+                                                                                                                                center of their right thumbprint, the basis for being counted a landlord is different
+                                                                                                                                from the basis for being counted as having such a thumbprint. Likewise for gender,
+                                                                                                                                one is a woman, not by virtue of one’s intrinsic features (for example, body type), but
+                                                                                                                                by virtue of one’s part in a system of social relations which includes, among other
+                                                                                                                                things, men. Gender is a relational or extrinsic property of individuals, and the rela-
+                                                                                                                                tions in question are social.
+                                                                                                                                                                                                         (2012, 42–43)
+
+                                                                                                                           Haslanger draws a useful analogy between an overt, institutional role like “landlord” and the
+                                                                                                                           sort of covert social role hypothesized by the constructionist, appealing to conceptually struc-
+                                                                                                                           tured relations among people to explain the reality of each.
+                                                                                                                               But how far can we take this analogy? Can we understand covert constructions as the same
+                                                                                                                           kind of thing as overt constructions? The fruitful analogy between them makes this tempting. And
+                                                                                                                           this temptation to treat them as alike is further aided by two background trends. First, a long tra-
+                                                                                                                           dition of social philosophical work intimates the possibility that conventional or institutional facts
+                                                                                                                           become reified or naturalized, in a process in which their institutional or social origin comes to be
+                                                                                                                           no longer widely understood. Second, recent decades have brought considerable progress in phil-
+                                                                                                                           osophical social ontology, that is, in the offering of explicit accounts of the nature of such entities
+                                                                                                                           as social institutions, conventions, and group mental states. Here, as elsewhere in philosophy, it is
+                                                                                                                           tempting to understand what is poorly understood by appeal to what is better understood.
+
+
+                                                                                                                                                                          Reification
+                                                                                                                           One old, Marxist strand of social scientific thought understands apparently natural facts as
+                                                                                                                           the “reified” products of past social arrangements. In Capital, Marx writes of “commodity
+                                                                                                                           fetishization”:
+
+                                                                                                                                A commodity is therefore a mysterious thing, simply because in it the social character
+                                                                                                                                of men’s labour appears to them as an objective character stamped upon the product
+
+                                                                                                                                                                              434
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                Social roles and reification
+
+
+                                                                                                                               of that labour. . . . In the same way the light from an object is perceived by us not as
+                                                                                                                               the subjective excitation of our optic nerve, but as the objective form of something
+                                                                                                                               outside the eye itself.
+                                                                                                                                                                                                       (Marx 1967, 77)
+
+                                                                                                                           Marx’s work on commodity fetishization motivates later work by György Lukács (1923) and
+                                                                                                                           others on “reification”: the process by which facts produced by social arrangements later come
+                                                                                                                           to be conceived as existing and having come about independently of those relations. These
+                                                                                                                           facts may even be seen as having occasioned those relations. A connection between reification
+                                                                                                                           of this sort and covert constructions is not hard to draw. Certain distinctions between superfi-
+                                                                                                                           cially different categories might begin as explicit institutions or conventions, but, over time, the
+                                                                                                                           differences these conventions produce come to be accepted as natural divisions or the causal
+                                                                                                                           consequence of natural divisions that are rooted in intrinsic differences among category mem-
+                                                                                                                           bers. For instance, a division of labor by sex that begins as a mere convenience (“Let’s say that
+                                                                                                                           the women will do the A tasks, and the men, the B tasks”) comes to be understood as a natural
+                                                                                                                           assignment, reflecting organic, sex-specific fitness to the tasks (“Women are just naturally better
+                                                                                                                           at the A tasks, and men are naturally fitted to the B tasks”).
+                                                                                                                               Similarly, John Searle (1995, 4, 47, 118; cf. Searle 2010) suggests that people may forget, or
+                                                                                                                           never even learn, the social character of social facts, mistakenly believing that gold or money is
+                                                                                                                           intrinsically valuable, or that some kind of person is naturally suited to rule. He writes:
+
+                                                                                                                               The complex structure of social reality is, so to speak, weightless and invisible. The
+                                                                                                                               child is brought up in a culture where he or she simply takes social reality for granted.
+                                                                                                                               We learn to perceive and use cars, bathtubs, houses, money, restaurants, and schools
+                                                                                                                               without reflecting on the special features of their ontology and without being aware
+                                                                                                                               they have a special ontology. They seem as natural to us as stones and water and trees.
+                                                                                                                                                                                                               (1995, 4)
+
+                                                                                                                           According to Searle, such social facts are established by our socio-linguistic activities, but then
+                                                                                                                           later mistaken for natural facts. More recently, he writes:
+
+                                                                                                                               There is no general answer to the question of why people accept institutions. Indeed,
+                                                                                                                               there are all sorts of institutions where people cheerfully accept what would appear
+                                                                                                                               to be unjust arrangements. One thinks of various class structures, the low position of
+                                                                                                                               women in many societies, and vastly disproportionate distributions of money, prop-
+                                                                                                                               erty, and power. But one feature that runs through a large number of cases is that in
+                                                                                                                               accepting the institutional facts, people do not typically understand what is going on.
+                                                                                                                               They do not think of private property, and the institutions for allocating private prop-
+                                                                                                                               erty, or human rights, or governments as human creations.They tend to think of them
+                                                                                                                               as part of the natural order of things; to be taken for granted in the same way they
+                                                                                                                               take for granted the weather or the force of gravity. Sometimes, indeed, they believe
+                                                                                                                               institutions to be consequences of a Divine will.
+                                                                                                                                                                                                           (2010, 107)
+
+                                                                                                                           Searle here suggests a specific account by which covert construction comes about: explicit,
+                                                                                                                           institutional structures are established by social practices, and then later mistaken as features of
+                                                                                                                           the natural world – an example of what we called reification above.
+
+                                                                                                                                                                           435
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                          Ron Mallon
+
+
+                                                                                                                               How do such mistakes come about? One venerable tradition emphasizes the role of power-
+                                                                                                                           ful interests in creating an ideology that rationalizes these interests. Looked at in this way, failure
+                                                                                                                           to preserve or promulgate the correct account of some component of social reality can be part
+                                                                                                                           of a plan to conserve or enhance the interests of those who benefit from this arrangement by
+                                                                                                                           deceiving the population. It is also possible that such a shift occurs for much more mundane
+                                                                                                                           reasons – not because of an intention to mislead, but because of a failure to be concerned with
+                                                                                                                           the truth, perhaps assisted by an implicit deference to existing states of affairs or power struc-
+                                                                                                                           tures and perhaps aided by psychological biases like folk essentialism (Gelman 2003) or the
+                                                                                                                           “fundamental attribution error” in which behavior is explained by appeal to intrinsic features
+                                                                                                                           of individuals rather than features of their situation (Ross and Nisbett 1991). Call such a shift
+                                                                                                                           from the knowing creation of institutions to ignorance “collective forgetting”.
+                                                                                                                               Whatever its source or cause, such collective forgetting suggests the possibility that covert
+                                                                                                                           constructions are essentially just overt constructions – they are, for instance, simply human
+                                                                                                                           institutions that we have ceased to recognize as such. This is Searle’s view. Crucially, on Searle’s
+                                                                                                                           rendering, reification does not change the institutional character of what is reified. If he is right, then
+                                                                                                                           to understand the nature of covert constructions, we need simply to understand the nature of
+                                                                                                                           institutions and other aspects of overtly constructed social reality.
+
+
+                                                                                                                                                     Social ontology: institutions and conventions
+                                                                                                                           Searle’s own account of institutional facts has it that such facts depend upon the collective
+                                                                                                                           imposition of function on some thing or things that occurs when there is collective acceptance of
+                                                                                                                           a statement of the form:
+
+                                                                                                                                X counts as Y in C.3
+
+                                                                                                                           For Searle, “X” is a specification of the individual or type to which the status function applies.
+                                                                                                                           For instance, it might specify that tokens of a certain type produced by the U.S. mint count
+                                                                                                                           as money in the United States. As Searle emphasizes, status functions of this type go beyond
+                                                                                                                           what the intrinsic features of X can secure according to natural laws. There is nothing about
+                                                                                                                           the intrinsic features of the tokens that we use as money that gives them the values that they
+                                                                                                                           are assigned. Indeed, we can assign the same value to vastly (intrinsically) different tokens: paper,
+                                                                                                                           coins, or digital data structures. Their value obtains in virtue of collective acceptance of one or
+                                                                                                                           more status functions. “C” specifies the context in which this imposition occurs.4
+                                                                                                                               According to Searle, collective acceptance reflects a “collective intentionality”, a feature of
+                                                                                                                           human cooperative practices. And, according to Searle, the status functions it imposes carry
+                                                                                                                           social obligations – “deontic powers” – that also explain their success as devices for social
+                                                                                                                           organization.
+                                                                                                                               As Searle understands them, these collective intentions are a sort of distinctive propositional
+                                                                                                                           attitude, “we-intentions” (1990, 1995, 23–26; 2010, 43ff ). For example, they might come about
+                                                                                                                           when a group decides that “we intend that paper marked as such from the U.S. mint count as
+                                                                                                                           money in the United States.” According to Searle, they are irreducible to the “I-intentions” that
+                                                                                                                           may be present in the mind of members of a population, indicating an understanding by those
+                                                                                                                           individuals of the collective character of the undertaking.5
+                                                                                                                               Searle contrasts his account with other accounts of social reality that make no use of “we-
+                                                                                                                           intentions”. For instance, a different prominent account of some important features of social
+                                                                                                                           reality is found in David Lewis’s (1969) account of conventions. On Lewis’s account, a conven-
+                                                                                                                           tion is sustained when it is true that, and it is common knowledge that, everyone participates
+
+                                                                                                                                                                              436
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                  Social roles and reification
+
+
+                                                                                                                           in a regularity (for example, driving on the right side of the road) on condition that everyone else
+                                                                                                                           does (1969, 76). Crucial to Lewis’s account of convention is that such a conventional conform-
+                                                                                                                           ity is a Nash equilibrium, a regularity that no one can unilaterally deviate from and better satisfy
+                                                                                                                           her own preferences. Because it is irrational for an individual to unilaterally deviate from the
+                                                                                                                           regularity, individual self-interest stabilizes the regularity.
+
+
+                                                                                                                                                         Can we overtly construct covert kinds?
+                                                                                                                           How could we employ Searle’s account of institutions or Lewis’s account of conventions to
+                                                                                                                           understand covert kinds? Returning to the example of race, we might – as Naomi Zack has
+                                                                                                                           (1999, 2002) – apply Searle’s schema straightforwardly to generate an account of the social
+                                                                                                                           construction of a set of racial categories. Zack writes:
+
+                                                                                                                                Let skin shade of a certain reflective index, or the existence of an ancestor with skin
+                                                                                                                                shade of that reflective index be X. In the context of the United States, X could count
+                                                                                                                                as “racially black” (or as “racially white” for a different value of X). . . . Any criterion
+                                                                                                                                for racial membership that has a physical factual basis could be some X that gets
+                                                                                                                                constructed as a Y or racial classification. Thus, it is racial membership that is socially
+                                                                                                                                constructed in Searle’s sense.
+                                                                                                                                                                                                                 (2002, 108)
+
+                                                                                                                           It is not hard to imagine applying the schema to other putatively natural categories as well,
+                                                                                                                           and when we do so, it nicely explicates the constructionist idea that the differential features
+                                                                                                                           of category members are dependent upon our socio-linguistic practices in differentially treat-
+                                                                                                                           ing them.
+                                                                                                                               Alternatively, we might try to understand a norm of differential treatment of some group
+                                                                                                                           of people as a Lewisian convention. Consider a case where we take members of a group G to
+                                                                                                                           have a favored or disfavored status with regard to a kind of activity A. This could be a racial
+                                                                                                                           group that is supposed to be good at sports or at math. Or a sex group that is supposed to be
+                                                                                                                           bad at fighting or at nurturing. In each of these cases, we could try to understand our treatment
+                                                                                                                           of members of G as preferred for A as a conventional fact, as adherence to the norm:
+
+                                                                                                                                Treat G’s as worse at A.
+
+                                                                                                                           On the condition that others do so. Where a system of such norms existed with regard to a
+                                                                                                                           category G, we could explain the apparent reality of G by appeal to the system of Lewisian con-
+                                                                                                                           ventions. If this were the right account, it would explain how our social practices of differential
+                                                                                                                           treatment depend upon the rational dispositions of individual actors, given their self-interest
+                                                                                                                           and their beliefs about what others will do.
+
+                                                                                                                                           Covert constructions are not institutions or conventions
+                                                                                                                           Unfortunately, this approach does not work. Covert constructions are, by hypothesis, different
+                                                                                                                           than overt constructions like Searlean institutions or Lewisian conventions. For covert con-
+                                                                                                                           structions, but not overt constructions, we treat them differentially because we mistakenly take
+                                                                                                                           them to be naturally different, and this false story rationalizes differential treatment, which stabilizes
+                                                                                                                           the thought and behavior that sustains the social role over time. This difference is not merely
+                                                                                                                           epistemic, but actually constitutes overt and covert kinds as different kinds of kinds.
+
+                                                                                                                                                                             437
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                       Ron Mallon
+
+
+                                                                                                                                                                     Kind identity
+                                                                                                                           What makes two sorts of kinds the same or different? Here I understand the notion of a kind
+                                                                                                                           using Richard Boyd’s influential idea of a causally homeostatic property cluster kind (1988,
+                                                                                                                           1991, 1999). While natural kinds have traditional been understood to be characterized by a
+                                                                                                                           simple, all-or-nothing essence, Boyd instead suggests that such kinds can be characterized by
+                                                                                                                           a “cluster” of typical but not individually necessary properties that co-occur in the world and
+                                                                                                                           whose possession is not an all-or-nothing affair for members of the kind. The co-occurrence
+                                                                                                                           of such properties in the kind is not an accident, but is the result of some sort of mechanism of
+                                                                                                                           causal homeostasis that sustains the co-occurrence of the properties, enabling reference to the
+                                                                                                                           kind to be useful in our predictive and explanatory enterprises.
+                                                                                                                               It is a virtue of such an account that it allows us to extend the idea of natural kinds to the
+                                                                                                                           complex and varied kinds that we find in the special sciences, and indeed, as Boyd himself has
+                                                                                                                           acknowledged, allows extension to kinds that “combine naturalistic and conventional features
+                                                                                                                           in quite complex ways” (1991, 140). I have argued elsewhere that we can understand con-
+                                                                                                                           structed social role kinds in this way (Mallon 2003, 2016).When we do, we get that constructed
+                                                                                                                           kinds are individuated, at least in part, by the mechanism of causal homeostasis for the kind.
+                                                                                                                           Where these are the same, we can say that the same kind occurs, and where different, different.6
+                                                                                                                           Here I assume that a claim of the sort “A and B are different kinds” is true whenever A and B
+                                                                                                                           have different mechanisms of causal homeostasis. It is difference between such mechanisms that
+                                                                                                                           distinguishes overt and covert socially constructed social roles.
+
+
+                                                                                                                                            Covert constructions are different: the epistemic argument
+                                                                                                                           We can begin to see that covert constructions are different than overt constructions by consid-
+                                                                                                                           ering the epistemic distinctiveness of overt constructions.
+                                                                                                                              Edouard Machery (2014) has argued that reified social facts cannot be Searlean imposi-
+                                                                                                                           tions of function because the ignorance that everyone (including Searle) suggests accompa-
+                                                                                                                           nies reification is incompatible with the knowledge required by the collective imposition of
+                                                                                                                           function.
+
+                                                                                                                               [People] tend to think of races as natural, biological kinds, and they often adopt an
+                                                                                                                               essentialist attitude toward them. But if people think that races are natural, biological
+                                                                                                                               kinds, they cannot collectively recognize, in the relevant sense, the social status of races
+                                                                                                                               nor their attendant social roles.
+                                                                                                                                                                                                    (Machery 2014, 93)
+
+                                                                                                                           These arguments bring out the contradiction in treating covert constructions as institutions:
+                                                                                                                           a thing cannot be simultaneously widely believed to be natural and widely believed to be a
+                                                                                                                           product of a collectively imposed convention or status function.
+                                                                                                                              But Machery’s argument makes an assumption that Searle seems to reject, the assumption
+                                                                                                                           that the operation of status functions requires collective recognition. Searle writes,
+
+                                                                                                                               The acceptance of an institutional fact, or indeed, of a whole system of status func-
+                                                                                                                               tions, may be based on false beliefs. From the point of institutional analysis, it does not
+                                                                                                                               matter whether the beliefs are true or false. It only matters whether the people do in
+                                                                                                                               fact collectively recognize or accept the system of status functions.
+                                                                                                                                                                                                             (2010, 119)
+
+                                                                                                                                                                          438
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                 Social roles and reification
+
+
+                                                                                                                               Searle is correct that his account makes no assumption about the nature of the justification or
+                                                                                                                           reasons for engaging in the imposition of a status function. Consider:
+
+                                                                                                                                G. We intend that persons with properties p1, p2, . . . pn count as members of race r1
+                                                                                                                                in C.
+
+                                                                                                                           The reasons for G could advert to social structure, history, magic, nature, or whatever you like,
+                                                                                                                           and it makes no difference to his institutional account. However, it is Searle’s account of the
+                                                                                                                           propositional attitude G itself that runs afoul of the epistemic argument. Someone who genu-
+                                                                                                                           inely believes in natural races does not participate in a collective intention like G. Rather, she
+                                                                                                                           has a different, simpler propositional attitude:
+
+                                                                                                                                H. I believe that persons with properties p1, p2, . . . pn are members of race r1.
+
+                                                                                                                              False beliefs about naturalness are not Searlean impositions of functions. Thus, Machery
+                                                                                                                           replies to Searle:
+
+                                                                                                                                Searle’s response only seems plausible because of an equivocation. If recognizing
+                                                                                                                                that some entity x has some property P just means judging that x has P, then, no
+                                                                                                                                doubt, people can recognize that reified social entities have a social status and an
+                                                                                                                                attendant function. In that sense, people can recognize, indeed collectively recog-
+                                                                                                                                nize, that water is constituted of H2O. But, if collective recognition is to be under-
+                                                                                                                                stood on the model of a declaration, then it makes little sense to recognize facts that
+                                                                                                                                we believe are natural phenomena. As noted above, we do not recognize, in that
+                                                                                                                                sense, that water is H2O. Because declarations are, for Searle, the basis of the mode
+                                                                                                                                of existence of social entities, reification is a genuine problem for his account of
+                                                                                                                                social ontology.
+                                                                                                                                                                                                             (2014, 98)
+
+                                                                                                                           It does look as if the idea at the core of Searle’s account of social institutions, the idea of acts
+                                                                                                                           that collectively impose status functions, acts that he comes to say have “the same logical form
+                                                                                                                           as declarations” (2010, 13), requires collective recognition of the social nature of the fact. Thus,
+                                                                                                                           Machery is correct that Searle cannot simultaneously allow for reification and for understand-
+                                                                                                                           ing such reified kinds as institutions, in his sense.7
+                                                                                                                               However, this passage and others from Searle suggest another possibility that Machery does
+                                                                                                                           not consider, one connected to what we called collective forgetting. What if reification occurs
+                                                                                                                           in a transition from an explicitly imposed status function to a mistakenly imposed status func-
+                                                                                                                           tion? Let an event E at time t collectively impose a status function in Searlean fashion:
+
+                                                                                                                                We intend that X’s count as Y’s in C.
+
+                                                                                                                           On Searle’s view, E can be itself a declaration, or simply “have the logical form” of a declaration.
+                                                                                                                           Machery’s point is that E entails collective recognition that the created fact is a social fact and
+                                                                                                                           this is inconsistent with X’s counting as Y being understood as a natural fact.
+                                                                                                                               But if E creates a social institution, that fact may not be recognized at a later time, a time after
+                                                                                                                           t. Suppose at this later time, people forget (or fail to learn) about E and come to believe that
+
+                                                                                                                                X’s are Y’s is a natural fact.
+
+                                                                                                                                                                            439
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                       Ron Mallon
+
+
+                                                                                                                           This collective forgetting model of reification seems to allow Searle to have his collective rec-
+                                                                                                                           ognition (at t) and deny it too (later on). Anyone who wants to argue (like Machery and I) that
+                                                                                                                           covert constructions cannot be understood as reified Searlean institutions needs an argument
+                                                                                                                           for why these reified facts do not continue to be institutional facts even after their mode of
+                                                                                                                           creation is forgotten. In the next section, I offer such an argument.
+                                                                                                                               I have been framing this discussion in terms of Searle’s account of institutions that makes
+                                                                                                                           use of the idea of we-intentions. However, we can see related phenomena on other accounts
+                                                                                                                           of social reality. Consider again Lewis’s account of conventions. For Lewis, individual behavior
+                                                                                                                           according to a conventional regularity is conditional upon each individual understanding of
+                                                                                                                           what others will do given common knowledge of the situation and regularity. Conventions
+                                                                                                                           amount to conformity with regularities that are Nash equilibria, where no one can unilaterally
+                                                                                                                           deviate from the regularity and do better. Notice that this cognitive state – the state of believ-
+                                                                                                                           ing one’s action is the best conditional upon the belief that others also recognize that their
+                                                                                                                           actions are the best – is not the mental state that obtains of participants in a covert construction.
+                                                                                                                           Rather, when one takes something to have its properties as a result of some natural, intrinsic
+                                                                                                                           property, one treats it as having those properties independently of how oneself and others regard
+                                                                                                                           it. In such cases, one’s actions in conformity with a regularity are conditional upon beliefs
+                                                                                                                           about the human-independent features of the kind, not conditional upon the dispositions or
+                                                                                                                           actions of others.
+
+
+                                                                                                                                                 Different kinds of kinds: the ontological argument
+                                                                                                                           Covert constructionists hold that putatively natural kinds are in fact produced by our socio-
+                                                                                                                           linguistic activities. It follows from this general view:
+
+                                                                                                                           1   Terms for covert constructions are widely believed to pick out natural kinds.
+                                                                                                                           2   Terms for covert constructions actually pick out some sort of socially produced kind.
+
+                                                                                                                           What we have been asking is if understanding the socially produced kind in 2 as a Searlean
+                                                                                                                           institution or Lewisian convention is consistent with the truth of 1. In this sub-section, I argue
+                                                                                                                           that it is not; “reification” makes a social role a different kind of kind.
+                                                                                                                              What sort of kind is a Searlean institution? Take a simple example. Four friends find that
+                                                                                                                           they all enjoy singing a cappella. They decide to declare themselves a barbershop quartet: the
+                                                                                                                           Windy Wendells. They democratically elect a leader, Director of the Windy Wendells. Before
+                                                                                                                           taking the vote, the quartet members have the intentional state:
+
+                                                                                                                               We intend that whoever gets the most votes in our secret ballot counts as the Director
+                                                                                                                               of the Windy Wendells for two years.
+
+                                                                                                                           They hold an election, and Reed wins. They then have the mental state that:
+
+                                                                                                                               We intend that Reed counts as the Director of the Windy Wendells for two years.
+
+                                                                                                                           Furthermore, they agree:
+
+                                                                                                                               We intend that the Director of the Windy Wendells shall set the concert schedule and
+                                                                                                                               the song list for each concert.
+
+
+                                                                                                                                                                           440
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                 Social roles and reification
+
+
+                                                                                                                           The term “Director of the Windy Wendells” picks out a property that Reed has in virtue of the
+                                                                                                                           existence of the imposed status function, one that gives him certain other prerogatives.
+                                                                                                                               What gives the kind “Director of the Windy Wendells” its causal power and stability over
+                                                                                                                           time? In its simplest formulation, the mechanism of an imposed status function is the set of
+                                                                                                                           “we-intentions” that produce and maintain it, mental states that involve reference to oneself
+                                                                                                                           and others as a collective. The we-intention works to produce and regulate behaviors by and
+                                                                                                                           towards members of a kind because we-intentions carry with them what Searle calls “deon-
+                                                                                                                           tic powers” that work upon prima facie dispositions to cooperate with others in sustaining
+                                                                                                                           the institution. The mental dispositions of people to remember imposed status functions and
+                                                                                                                           respect their deontic force stabilize institutional kinds, giving them their causal power.
+                                                                                                                               This is not true for covert constructions. Even if an entity begins as a Searlean institution,
+                                                                                                                           reification suggests that cooperative we-intentions no longer obtain. Reification involves a
+                                                                                                                           situation in which status functions are no longer remembered as such, and so they do not have
+                                                                                                                           deontic power. In such cases, X’s are Y’s is not seen as a result of cooperation or collective inten-
+                                                                                                                           tionality. It is rather believed to be the result of natural facts about X’s. It follows that covert
+                                                                                                                           constructions lack the mechanism that lies at the heart of overt, Searlean institutions: the exist-
+                                                                                                                           ence of we-intentions and the attendant dispositions to cooperate.
+                                                                                                                               What holds covert constructions together, then? Covert constructions contrast with overt
+                                                                                                                           constructions in that covert constructions are stabilized by the mistaken belief in their naturalness.
+                                                                                                                           The idea that a kind can be stabilized by mistaken belief in its naturalness is very old in phi-
+                                                                                                                           losophy. Famously, Plato in The Republic advocates stabilizing the social order of the Republic
+                                                                                                                           by spreading a “noble lie”:
+
+                                                                                                                                we will say in our tale, yet God in fashioning those of you who are fitted to hold rule
+                                                                                                                                mingled gold in their generation, for which reason they are the most precious – but
+                                                                                                                                in the helpers silver, and iron and brass in the farmers and other craftsmen.
+                                                                                                                                                                                                         (1961, 415a-b)
+
+                                                                                                                           The different social roles of the Republic are stabilized not only by institution or by conven-
+                                                                                                                           tion, but also by belief in underlying facts about the natures of each of the social classes. On
+                                                                                                                           this interpretation, the constructionist view rests on the idea, exploited by Plato, that belief in
+                                                                                                                           the naturalness of a category is a mechanism that can stabilize a kind. Searle himself realizes the
+                                                                                                                           possibility that, “In the extreme case an institutional fact might function only because it is not
+                                                                                                                           believed to be an institutional fact” (2010, 119). But he fails to acknowledge that such a fact
+                                                                                                                           would no longer be institutional in his sense, because the kind it makes reference to is not sus-
+                                                                                                                           tained by we-intentions, deontic powers, or cooperative dispositions. Because the mechanism
+                                                                                                                           of causal homeostasis is different, the kind is different.
+                                                                                                                               We can illustrate these differences between overt and covert constructions by consider-
+                                                                                                                           ing the differing counterfactuals that emerge between overt and covert constructionist views
+                                                                                                                           (Mallon in press). Consider a role like “traffic officer”. For Searle, roughly, what makes the
+                                                                                                                           traffic officer a traffic officer, and gives her the right to direct traffic and issue traffic citations,
+                                                                                                                           is the collective imposition of these functions upon her by a community. Counterfactually, if
+                                                                                                                           everyone stopped imposing these functions, then there would be no status function and no
+                                                                                                                           obligation to obey the officer. For each individual, there would no longer be a disposition to
+                                                                                                                           continuing to act as if the traffic cop could give orders or issue citations.
+                                                                                                                               And the point, again, extends to other accounts of social reality. Lewisian conventions depend
+                                                                                                                           upon strategic choices by individuals, behavior that is contingent upon the rational preferences
+
+
+                                                                                                                                                                             441
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                        Ron Mallon
+
+
+                                                                                                                           of others. Consider the norm “stop when the traffic officer indicates to do so.” If this norm
+                                                                                                                           were sustained by a Lewisian convention, each person’s participation in the regularity would
+                                                                                                                           depend upon that person’s beliefs about what others will do, prefer, and so forth. If no one else
+                                                                                                                           participated in the convention, that would undermine one’s own reasons for participating in it.
+                                                                                                                              In contrast, in the covertly constructed social role case of the sort we have been considering,
+                                                                                                                           behavior is sustained by beliefs in the natural features of the world. Consider a community c in
+                                                                                                                           which men and women are equally able to perform a job type J, but that for various histori-
+                                                                                                                           cal reasons women are more prevalent at job type J. Suppose, moreover, that, in c, it is widely
+                                                                                                                           believed that
+
+                                                                                                                                Q. Women are better at job type J because of their biology.
+
+                                                                                                                               Suppose Sarah is an employer seeking to fill a job of type J. If Sarah, as others in c, believes Q,
+                                                                                                                           then Sarah might rationally prefer women candidates for the job because of their putative supe-
+                                                                                                                           riority at that type of work. This preference is not conditional upon everyone else endorsing a
+                                                                                                                           status function nor is it conditional upon a desire to behave in accord with a regularity, given
+                                                                                                                           that everyone else does. It is not even conditional upon others believing Q; if everyone else
+                                                                                                                           believed that men were naturally better at J, Sarah might still rationally prefer to hire women
+                                                                                                                           because of her belief in Q. This sort of illustration makes clear that covert constructions are
+                                                                                                                           stabilized and explained by different facts than those that stabilize and explain overt construc-
+                                                                                                                           tions. This is a reflection of the different mechanisms that stabilize overt and covert kinds – a
+                                                                                                                           reflection of the fact that they are different kinds of kinds.
+                                                                                                                               Generalizing, if one treats men or women or members of different races as having some
+                                                                                                                           functions in virtue of a we-intention or convention, then that treatment is the result of mental
+                                                                                                                           states that are conditional upon the psychological and behavioral dispositions of others. But if
+                                                                                                                           one treats men or women or members of different races as different in virtue of natural facts,
+                                                                                                                           then that treatment is the result of mental states that are not conditional upon beliefs about
+                                                                                                                           others but rather conditional upon beliefs about the natural features of the world.
+                                                                                                                               This discussion has been narrowly focused upon the character of socially constructed human
+                                                                                                                           categories, arguing that there are at least two kinds of kinds that secure the stability of human
+                                                                                                                           kinds: one centered on attitudes involving others (for Searle, collective acceptance; for Lewis,
+                                                                                                                           common knowledge of a Nash equilibrium), and one centered upon mistaken naturalness. But
+                                                                                                                           other recent work on social reality makes it tempting, and ultimately, I think correct, to draw
+                                                                                                                           the more general conclusion that there are, as Brian Epstein has put it, “many kinds of social
+                                                                                                                           glue” that hold the social world together (Epstein 2014). These may include something like
+                                                                                                                           “collective intentions” of the sort that figures in work by Searle and others, the sort of game-
+                                                                                                                           theoretic equilibria that Lewis’s account of convention emphasizes (cf. Mallon 2003), as well as
+                                                                                                                           mistakes about what is natural that figure in constructionist work. Once we see this, we might
+                                                                                                                           then add a range of other mechanisms that may play a role in stabilizing human categories and
+                                                                                                                           add to their causal power (Mallon 2003; Mallon and Kelly 2012; Guala and Hindriks 2015). If
+                                                                                                                           this is right, the argument I have given is a simply a piece in a larger shift towards recognition
+                                                                                                                           of many mechanisms that produce social reality.
+
+                                                                                                                                                            Reification and social change
+                                                                                                                           The claim that covert constructions are not the same kind of kind as overt constructions is con-
+                                                                                                                           sistent with the view that covert constructions began as institutions or conventions, sustained
+                                                                                                                           by collective recognition or individual appreciation of a solution to a coordination problem.
+
+                                                                                                                                                                            442
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                    Social roles and reification
+
+
+                                                                                                                           Practices that were initially adhered to out of collective recognition might eventually have come
+                                                                                                                           to be understood as natural facts. Because of the gradual turnover in population, such a transi-
+                                                                                                                           tion may be described, as I have, as a sort of collective forgetting.The present argument is that as:
+
+                                                                                                                                We intend that X’s count as Y’s in C.
+
+                                                                                                                           gives way to the simple:
+
+                                                                                                                                X’s are Y’s.
+
+                                                                                                                           the character of the kind picked out by X undergoes an “alchemical” transformation: it becomes
+                                                                                                                           a different kind because the mechanism that sustains it changes.
+                                                                                                                               Recognition of multiple representational mechanisms that sustain social reality also suggests
+                                                                                                                           a broader conclusion about critical practices: where human intentional processes produce or
+                                                                                                                           stabilize the social world, transforming the social world via reasoned argument requires address-
+                                                                                                                           ing the precise content of the intentions that produce and sustain it. Where overt construction
+                                                                                                                           occurs, this involves explicit attention to the character of the status functions or conventions
+                                                                                                                           that are in play, and what alternatives might take their place. But where covert construction is in
+                                                                                                                           play, social transformation requires addressing and refuting false beliefs about the mechanisms
+                                                                                                                           that produce the social world.
+                                                                                                                               Many obstacles face such attempts at social transformation. Such false beliefs may themselves
+                                                                                                                           be supported epistemically by the causal order the constructive processes have created. Power-
+                                                                                                                           ful interests who benefit from existing arrangements may also stabilize them.8 And they may be
+                                                                                                                           stabilized by psychological biases that create cognitive illusions of plausibility around mistaken
+                                                                                                                           explanations.
+                                                                                                                               Thus conceived, we can see the project of many covert social constructionists as the attempt
+                                                                                                                           to, in effect, overcome these obstacles and reverse reification. Covert constructionists hope that
+                                                                                                                           when we see that our practices are sustained by mistakes about the nature of human kinds,
+                                                                                                                           the continuation of these practices will become a matter of collective choice or coordination,
+                                                                                                                           opening the possibility of better choices or arrangements.
+
+
+                                                                                                                                                                              Notes
+                                                                                                                            1 I am grateful to Frank Hindriks and Julian Kiverstein for helpful criticism of an earlier version of this
+                                                                                                                              paper.
+                                                                                                                            2 Cf. Mallon (2016), ch. 2 for more discussion.
+                                                                                                                            3 Later, Searle (2010) suggests several alternate renderings of the imposition of function.
+                                                                                                                            4 Searle is just one prominent examples of a thriving literature on social ontology (see also, e.g., Tuomela
+                                                                                                                              2013; Gilbert 1989).
+                                                                                                                            5 More recently, Searle (2010) offers a number of emendations to his basic account, including acknowl-
+                                                                                                                              edging “though ‘X counts as Y in C’ is one form of Status Function Declaration, there are also other
+                                                                                                                              forms” (19). Still, he maintains: “all of human institutional reality is created and maintained in existence
+                                                                                                                              by (representations that have the same logical form as) [Status Function] Declarations” (13).
+                                                                                                                            6 Craver (2009), Khalidi (2013), and Slater (2015) all suggest that individuating mechanisms are not nec-
+                                                                                                                              essary for kinds. Here I assume only that distinct mechanisms are a sufficient reason for a fine-grained
+                                                                                                                              individuation of kinds.
+                                                                                                                            7 Amy Thomasson (2003) similarly suggests that Searlean institutions produce a kind of first person
+                                                                                                                              authority with regard to the nature of the institution. Such authority looks to be inconsistent with the
+                                                                                                                              kind of error that reification seems to involve.
+                                                                                                                            8 See, e.g., Petrović (1983). Some elaborations of Marx’s idea emphasize the connection of reification to
+                                                                                                                              capital. Honneth (2008) offers further social theoretic discussion of reification.
+
+                                                                                                                                                                                443
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                            Ron Mallon
+
+
+                                                                                                                                                                           References
+                                                                                                                           Bargh, J. & T. L. Chartrand (1999).The unbearable automaticity of being. American Psychologist, 54(7), 462–479.
+                                                                                                                           Boyd, R. (1988). How to be a moral realist. In G. Sayre-McCord (Ed.), Essays on Moral Realism (pp. 181–228).
+                                                                                                                               Ithaca, NY: Cornell University Press.
+                                                                                                                           ———. (1991). Realism, anti-foundationalism and the enthusiasm for natural kinds. Philosophical Studies, 61,
+                                                                                                                               127–148.
+                                                                                                                           ———. (1999). Kinds, complexity and multiple realization. Philosophical Studies, 95, 67–98.
+                                                                                                                           Craver, C. F. (2009). Mechanisms and natural kinds. Philosophical Psychology, 22(5), 575–594.
+                                                                                                                           Epstein, B. (2014). How many kinds of glue hold the social world together? In M. Gallotti and J. Michael
+                                                                                                                               (Eds.), Social Ontology and Social Cognition (pp. 41–55). Dordrecht, NL: Springer
+                                                                                                                           Foucault, M. (1978). The History of Sexuality,Vol. I: An Introduction. New York: Pantheon.
+                                                                                                                           Gelman, S. A. (2003). The Essential Child: Origins of Essentialism in Everyday Thought. New York: Oxford Uni-
+                                                                                                                               versity Press.
+                                                                                                                           Gendler, T. (2008). Alief and belief. Journal of Philosophy, 105(10), 634–663.
+                                                                                                                           Gilbert, M. (1989). On Social Facts. Princeton, NJ: Princeton University Press.
+                                                                                                                           Griffiths, P. E. (1997). What Emotions Really Are. Chicago: The University of Chicago Press.
+                                                                                                                           Guala, F. & F. Hindriks (2015). A unified social ontology. Philosophical Quarterly, 65(259), 177–201.
+                                                                                                                           Haslanger, S. A. (2012). Resisting Reality: Social Construction and Social Critique. New York: Oxford University
+                                                                                                                               Press.
+                                                                                                                           Honneth, A. (2008). Reification: A New Look At An Old Idea. Oxford; New York: Oxford University Press.
+                                                                                                                           Huebner, B. (2009). Troubles with stereotypes for spinozan minds. Philosophy of the Social Sciences, 39(1),
+                                                                                                                               63–92.
+                                                                                                                           Khalidi, M. A. (2013). Natural Categories and Human Kinds: Classification in the Natural and Social Sciences. New
+                                                                                                                               York: Cambridge University Press.
+                                                                                                                           Lewis, D. (1969). Convention: A Philosophical Study. New Castle: Basil Blackwell.
+                                                                                                                           Lukács, G. (1923/1971). Reification and the Consciousness of the Proletariat. In R. Livingstone (Ed.), His-
+                                                                                                                               tory and Class Consciousness. R. Livingstone. (trans.) (pp. 83–222). Cambridge, MA: MIT Press.
+                                                                                                                           Machery, E. (2014). Social ontology and the objection from reification. In M. Gallotti and J. Michael (Eds.),
+                                                                                                                               Perspectives on Social Ontology and Social Cognition (pp. 87–102). Dordrecht: Springer.
+                                                                                                                           MacKinnon, C. A. (1987). Feminism Unmodified : Discourses On Life and Law. Cambridge, MA: Harvard Uni-
+                                                                                                                               versity Press.
+                                                                                                                           Mallon, R. (2003). Social construction, social roles and stability. In F. Schmitt (Ed.), Socializing Metaphysics
+                                                                                                                               (pp. 327–353). Lanham, MD, Rowman and Littlefield.
+                                                                                                                           ———. (in press). The Construction of Human Kinds. Oxford University Press.
+                                                                                                                           Mallon, R. & D. Kelly (2012). Making race out of nothing: Psychologically constrained social roles. In H.
+                                                                                                                               Kincaid (Ed.).The Oxford Handbook of Philosophy of Social Science (pp. 507–532). Oxford: Oxford Univer-
+                                                                                                                               sity Press.
+                                                                                                                           Marx, K. (1967). Capital: Unabridged, Vol. 1: A Critical Analysis of Capitalist Production. Edited by Frederick
+                                                                                                                               Engels. Translated by Samuel Moore and Edward Aveling from the Third German Edition. New York:
+                                                                                                                               International Publishers.
+                                                                                                                           Omi, M. & H. Winant (1994). Racial Formation in the United States: From the 1960s to the 1990s. New York:
+                                                                                                                               Routledge.
+                                                                                                                           Petrović, G. (1983). Reification. In T. Bottomore, L. Harris,V. G. Kiernan and R. Miliband (Eds.), A Dictionary
+                                                                                                                               of Marxist Thought (pp. 411–413). Cambridge, MA: Harvard University Press.
+                                                                                                                           Plato (1961).The Republic. In E. Hamilton and H. Cairns (Eds.), The Collected Dialogues of Plato Including the
+                                                                                                                               Letters (pp. 575–844). Princeton, NJ: Princeton University Press.
+                                                                                                                           Ross, L. & R. E. Nisbett (1991). The Person and the Situation. Philadelphia: Temple University Press.
+                                                                                                                           Searle, J.R. (1990). Collective intentions and actions. In P.R. Cohen, J. Morgan and Martha Pollack
+                                                                                                                               (Eds.), Intentions in Communication (pp. 401–415). MIT Press.
+                                                                                                                           ———. (1995). The Construction of Social Reality. New York: Free Press.
+                                                                                                                           ———. (2010). Making the Social World : The Structure Of Human Civilization. Oxford; New York: Oxford
+                                                                                                                               University Press.
+
+                                                                                                                                                                                 444
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+                                                                                                                                                                   Social roles and reification
+
+
+                                                                                                                           Slater, M. H. (2015). Natural kindness. British Journal for the Philosophy of Science, 66(2), 375–411.
+                                                                                                                           Taylor, P. C. (2013). Race: A Philosophical Introduction. Cambridge, UK; Malden, MA: Polity Press.
+                                                                                                                           Thomasson, A. (2003). Realism and human kinds. Philosophy and Phenomenological Research, 67(3), 580–609.
+                                                                                                                           Tuomela, R. (2013). Social Ontology: Collective Intentionality and Group Agents. New York: Oxford University
+                                                                                                                               Press.
+                                                                                                                           Zack, N. (1999). Philosophy and racial paradigms. Journal of Value Inquiry, 33, 299–317.
+                                                                                                                           ———. (2002). Philosophy of Science and Race. New York: Routledge.
+
+
+
+
+                                                                                                                                                                              445
+Downloaded By: University of California - Los Angeles At: 16:46 27 Apr 2023; For: 9781315530178, chapter25, 10.4324/9781
+
