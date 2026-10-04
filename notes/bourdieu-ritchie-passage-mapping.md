@@ -4,19 +4,26 @@ Built from the manuscript's own argument (structural realism; doubly covert feat
 
 ## Implementation status
 
-Five revisions recommended from this mapping have been implemented directly in the live Google Doc manuscript (surgical OpenXML edits, `word/document.xml` and `word/footnotes.xml`; uploaded via `drive_update`). Status as of 2026-10-03:
+Eight revisions recommended from this mapping have been implemented directly in the live Google Doc manuscript (surgical OpenXML edits, `word/document.xml` and `word/footnotes.xml`; uploaded via `drive_update`). Status as of 2026-10-03:
 
 | # | Revision | Source section below | Manuscript location | Status |
 |---|---|---|---|---|
 | 1 | Flag that Bourdieu's theoretical/practical opposition ≠ Ritchie's overt/covert axis | §4 | End of "Theoretical versus Practical Groups" section | ✅ Implemented |
-| 2 | New paragraph using Bourdieu's 1985 "work of naturalization" / "natural distinction" vocabulary to corroborate substantialism = reification independently of Mallon | §9.1, §9.3 | Immediately after the substantialism-definition paragraph, before "The Relationship Between Doubly Covert and Overt Groups" | ✅ Implemented |
+| 2 | New paragraph using Bourdieu's 1985 "work of naturalization" / "natural distinction" vocabulary to corroborate substantialism = reification independently of Mallon | §9.1, §9.3 | Immediately after the substantialism-definition paragraph, before "The Relationship Between Doubly Covert and Overt Groups" | ✅ Implemented; merged with revision 7 into one paragraph (see trims below) |
 | 3 | Add limitations sentence flagging the empirical confound between the feature/organized and overt/covert axes | §9.2 | Discussion section, appended to the scope-limitation paragraph | ✅ Implemented |
-| 4 | Surface the creation/construction/reification trichotomy in the main text (not just footnote 6) | §8.3 | Clause appended to the main-text sentence defining "substantialism" | ✅ Implemented |
+| 4 | Surface the creation/construction/reification trichotomy in the main text (not just footnote 6) | §8.3 | Clause appended to the main-text sentence defining "substantialism" | ✅ Implemented (author later trimmed the "(see note 6)" cross-reference during independent live editing) |
 | 5 | Expand "groupmaking" using Bourdieu's own naming/delegation material (performative naming, *mysterium ministerii*, delegation formula) rather than a bare Wacquant citation | §5, §7 | Three new paragraphs replacing the single-sentence gap acknowledgment in the Discussion section | ✅ Implemented |
+| 6 | New paragraph using Bourdieu's (1978/2013) "double objectivity" passage as a sharper primary-source anchor for the structural-realism claim | §10.1 | Immediately after the 1987-based structural-realism "ibid" quote, before "Having taken a structural realist stance..." | ✅ Implemented |
+| 7 | New paragraph using Bourdieu's (1978/2013) formal definition of "symbolic violence" (p. 298) to sharpen the naturalization/reification discussion | §10.2 | Originally a standalone paragraph after revision 2; merged into revision 2's paragraph during the pacing trim (see below) | ✅ Implemented |
+| 8 | Add a single-sentence pointer to Bourdieu's "denegated classes" thesis (status groups as "sublimated and thereby legitimated classes," 1978/2013, p. 300) as a flagged future-work direction | §10.3 | Appended to the feature/organized-vs-overt/covert limitations sentence (revision 3), Discussion section | ✅ Implemented |
 
 Footnotes 6 and 7 were also revised earlier (prior to this batch) to separate Mallon's (2016) creation/construction/reification vocabulary explicitly — see §8 below for the content that motivated that edit.
 
-Not yet implemented / still open: §7's broader observation that the manuscript could connect this material to a fuller treatment of symbolic power (partially addressed by revision 5, but the canon-law/Hobbes delegation material could be developed further); §9.2's observation remains flagged only as a limitation, not resolved.
+**Pacing trim (2026-10-03, after revision 7):** a full end-to-end review of the "Bourdieu's Social Ontology" through Discussion stretch found the substantialism/naturalization/reification material repeated across four consecutive paragraphs, and the "transition is probabilistic, not automatic" claim recurring roughly five times. Two trims were made: (a) the revision-2 and revision-7 paragraphs were merged into one, cutting redundant transition/summary sentences while keeping both the 1985 and 1978/2013 citations; (b) the Discussion's "second payoff" paragraph was cut from ~17 lines to one sentence, preserving its citations (Anjum & Mumford 2018; Strand & Lizardo 2021; Wacquant 2013) and italicized key terms (*tendencies*, *groupmaking*). Revision 8 (the denegated-classes pointer) was added only after these trims, per the earlier recommendation to make room before adding further material.
+
+Not yet implemented / still open: §7's broader observation that the manuscript could connect this material to a fuller treatment of symbolic power (substantially addressed by revisions 5 and 7, but the canon-law/Hobbes delegation material could be developed further); §9.2's observation remains flagged only as a limitation, not resolved; the "denegated classes" thesis and the Proust/Goffman worked examples from the symbolic-capital text (see §10) have not been incorporated into the manuscript.
+
+**Live-document drift note:** on re-download for revision 7, the manuscript's own naturalization sentence had already been lightly edited by the author in the live Google Doc (from "...power to naturalize classifications" to "...power to naturalize **folk** classifications") between revisions 2 and 7. This confirms the live document is under active author editing; every injection in this project re-downloads immediately before editing and anchors on freshly verified exact text for exactly this reason.
 
 ## 1. Social space ↔ Social structure (constitutive dependence)
 
@@ -123,3 +130,26 @@ This suggests the two axes, while analytically separable (contra any assumption 
 ### 9.3 Net assessment
 
 The 1985 essay sharpens the overt/covert axis considerably by supplying Bourdieu's own terms — "natural distinction," "work of naturalization," "class unconscious," "break with the doxa," "serial" vs. "explicit" existence — in place of relying only on the 1989/1991 fragment and Mallon's secondhand vocabulary. It confirms the axis is genuinely distinct from the feature/organized (theoretical/practical) axis (note 6, p. 219, explicitly separates "sense of realities" from "class consciousness" as an *explicit representation*, which is a different question from whether the class is organized). But it also shows, via the INSEE and naming examples, that in Bourdieu's actual case studies the two transitions (covert→overt and feature→organized) tend to run together, which is a limitation worth flagging explicitly in the manuscript rather than leaving implicit.
+
+## 10. Bourdieu's 1978/2013 "Symbolic Capital and Social Classes" — new material, partially implemented
+
+A dedicated check (prompted by the question of whether this text duplicates the 1985/1987 material) found that roughly 40–50% of this essay is new content relative to the two texts above. Two pieces of that new content are now incorporated into the manuscript (revisions 6–7); the remainder is logged here for possible future use.
+
+### 10.1 "Double objectivity" — ✅ revision 6 implemented
+
+| Bourdieu passage (1978/2013) | Link to manuscript argument |
+|---|---|
+| "Social groups, and especially social classes...exist twice...in the objectivity of the first order...and in the objectivity of the second order" (p. 296) | The most explicit, compact primary-source statement of Bourdieu's two-level realism across all three texts — sharper than the 1987 "relational realism" passage alone, since it names the two levels (material distribution vs. representational/taxonomic layer) as a single formal distinction rather than leaving it implicit. Now anchors the manuscript's structural-realism paragraph directly. |
+| Symbolic capital "exists only in the relationship between distinct and distinctive properties" (p. 297) | Blocks a misreading of the second-order objectivity as a freestanding reality independent of the first order — used in the new paragraph to rule out collapsing the two levels into one another. |
+
+### 10.2 Symbolic violence — ✅ revision 7 implemented
+
+| Bourdieu passage (1978/2013) | Link to manuscript argument |
+|---|---|
+| "Any capital, whatever the form it assumes, exerts a symbolic violence as soon as it is recognized, that is, misrecognized in its truth as capital" (p. 298) | Names, with a formal definition, the same process Mallon calls reification and the 1985 essay calls "work of naturalization" — but from the standpoint of power rather than cognition. Used in the new paragraph to give the manuscript's substantialism/reification discussion an explicitly power-theoretic register alongside Mallon's cognitive-bias vocabulary (folk essentialism, fundamental attribution error). |
+
+### 10.3 Partially incorporated / not yet incorporated
+
+- **"Denegated classes" thesis** — ✅ revision 8 implemented as a one-sentence pointer: Weberian status groups are not a different *type* of group from classes but "sublimated and thereby legitimated classes" (p. 300). The manuscript's limitations paragraph now flags, in a single sentence, that this raises the open question of whether status-group formation is a third transition pattern alongside feature-to-organized and covert-to-overt. The thesis itself is not developed in the body text — only pointed to — so a fuller engagement (e.g., working out whether "denegation" is a fourth process alongside creation/construction/reification) remains available for future work.
+- **"Social alchemy"**: the labor/cost of converting economic or cultural capital into symbolic capital (p. 299), plus historical scope conditions (precapitalist societies, village vs. urban anonymity, notes 15–16) on when symbolic capital matters more or less. Not currently used anywhere in the manuscript.
+- **Extended worked examples** (Proust's salons, Goffman's presentation-of-self critique, Gusfield's temperance-crusade example, the fashion-designer-as-arbiter example) — illustrative material not referenced in the manuscript; could supply concrete, teachable cases if the paper is expanded for a different venue (e.g., a textbook chapter) but is not necessary for the core ontological argument.
